@@ -5,3 +5,5 @@
 venv
 credentials*.json
 logging.txt
+*.xlsx
+*.csv
